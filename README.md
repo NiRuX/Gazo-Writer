@@ -1,5 +1,11 @@
 <p align="center"><img src="http://codeberg.org/glowiak/dd-gui/raw/branch/master/screenshot.bmp"></p>
 
+# Yes, it's an object too
+
+Python is an easy language. Too easy. Easier is only the Shell, but it does not have GUI.
+
+Well, I decided to do a challange - rewrite this into a harder language, first will be < guess from the title > Java - the famous language in which Minecraft was made and the "Yes, it's an object too" language. I've already finished the GUI (in swing), doing the technical stuff now. Next one will be probably Vala/GTK when (or more precisely: if) I will finish learning it.
+
 # WARNING
 
 please don't use this
